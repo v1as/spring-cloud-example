@@ -1,0 +1,1 @@
+docker container run cloud-main-app:v1
